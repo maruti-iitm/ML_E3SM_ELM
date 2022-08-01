@@ -1,2 +1,2 @@
-# ML_E3SM_ELM
+# ML for E3SM-ELM model
 ML scripts for E3SM-ELM model
